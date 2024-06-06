@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: redoc-swagger-visualizer
+  annotations:
+    github.com/project-slug: kbakdev/redoc-swagger-visualizer
+spec:
+  type: other
+  lifecycle: unknown
+  owner: vi-xp
